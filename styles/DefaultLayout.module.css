@@ -1,0 +1,4 @@
+.custom-grid {
+    grid-template-columns: theme('width.44') 1fr;
+    grid-template-rows: 1fr theme('height.10');
+}
